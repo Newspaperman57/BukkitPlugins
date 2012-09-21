@@ -1,0 +1,27 @@
+﻿kits:
+    Tools:
+        delay: 0
+        items:
+            '276' : 1
+            '278' : 1
+            '277' : 1
+            'Diamond_Axe' : 1
+    dirt:
+        delay: 60
+        items:
+          'dirt': 64
+          'grass': 2
+    darmor:
+        delay: 0
+        items:
+        armor:
+          head: 310
+          chest: 311
+          legs: 312
+          boots: 313
+    dequip:
+        delay: 0
+        armor:
+        items:
+        parents: [Tools,darmor]
+          

@@ -1,0 +1,6 @@
+﻿hello:
+    exec: echo
+    args: HelloWorld
+git pull:
+    exec: git
+    args: pull lua

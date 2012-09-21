@@ -1,0 +1,7 @@
+17:03:04 [INFO] *DebugLog.setFile* : Logger created [13] 
+17:03:04 [INFO] *AdminCmd.onEnable* : Plugin Version : 6.5.2 (BUILD 08.08.2012 @ 14:14:08) [13] 
+17:03:04 [INFO] *FileManager.<clinit>* : Git Version : 41e4de5ff509e6ede3e8f8f3e3cc5684c39b8f2c [13] 
+17:03:04 [INFO] *ExtendedConfiguration.save* : Saving file : plugins\AdminCmd\config.yml [13] 
+17:03:04 [INFO] *Database.initDb* : Database initialization done [13] 
+17:03:05 [SEVERE] *EmptyPlayer.<init>* : Empty Player instancied with name : serverConsole [13] 
+17:03:05 [INFO] *SQLPlayerFactory.<init>* : Players found :  [13] 
